@@ -1,3 +1,8 @@
 
 Mina saan edaspidi kasutada Githubi, et kodus harjutada projektide haldamist ja selle kasutamist. 
 Githubi saab lihtsasti allalaadides kasutada.
+
+
+Github tehti 2008. aastal veebruaris valmis
+asutajad on hris Wanstrath, P. J. Hyett, Tom Preston-Werner, and Scott Chacon
+2008. aastal sai see kättesadavaks
