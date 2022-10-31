@@ -1,1 +1,3 @@
 git on lähtekoodiga hajus versioonihaldussüsteem. See on mõeldud nii väiksetele, kui suurtele, kes tahavad projekte hallata.
+Mina saan edaspidi kasutada Githubi, et kodus harjutada projektide haldamist ja selle kasutamist. 
+Githubi saab lihtsasti allalaadides kasutada.
