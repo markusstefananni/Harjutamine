@@ -1,0 +1,1 @@
+git on lähtekoodiga hajus versioonihaldussüsteem. See on mõeldud nii väiksetele, kui suurtele, kes tahavad projekte hallata.
